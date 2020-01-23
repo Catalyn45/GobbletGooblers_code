@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1577911231 source:d:\pb cpp\proiect_ip\icon.rc
+
+1578698541 source:d:\pb cpp\proiect_ip\server.cpp
+	"Server.h"
+
+1578697910 d:\pb cpp\proiect_ip\server.h
+	"Includes.h"
+
+1578747502 d:\pb cpp\proiect_ip\includes.h
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+	<ws2tcpip.h>
+	<winsock2.h>
+	<sstream>
+	<cstring>
+	<string>
+
+1578856678 source:d:\pb cpp\proiect_ip\main.cpp
+	"Includes.h"
+	"Vars.h"
+	"Server.h"
+
+1578855651 d:\pb cpp\proiect_ip\vars.h
+	"Includes.h"
+
+1578698388 source:d:\pb cpp\proiect_ip\vars.cpp
+	"includes.h"
+
